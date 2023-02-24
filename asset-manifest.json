@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Ncrr-changes-master/static/css/main.0e9402b9.css",
+    "main.js": "/Ncrr-changes-master/static/js/main.23a62ce9.js",
+    "static/js/787.e81d5153.chunk.js": "/Ncrr-changes-master/static/js/787.e81d5153.chunk.js",
+    "static/media/fa-solid-900.svg": "/Ncrr-changes-master/static/media/fa-solid-900.e01ea526204590d06558.svg",
+    "static/media/fa-brands-400.svg": "/Ncrr-changes-master/static/media/fa-brands-400.65ed7d005846ac8f8096.svg",
+    "static/media/fa-solid-900.eot": "/Ncrr-changes-master/static/media/fa-solid-900.1b81e504c3d6fcfbdf46.eot",
+    "static/media/fa-solid-900.ttf": "/Ncrr-changes-master/static/media/fa-solid-900.2c16a818018a030c0b87.ttf",
+    "static/media/fa-regular-400.woff": "/Ncrr-changes-master/static/media/fa-regular-400.af399b5e5aaf2e225f90.woff",
+    "static/media/fa-regular-400.woff2": "/Ncrr-changes-master/static/media/fa-regular-400.b9fbe9a70ad2a322981d.woff2",
+    "static/media/fa-regular-400.svg": "/Ncrr-changes-master/static/media/fa-regular-400.eae91b15e71cf13b2f8c.svg",
+    "static/media/fa-brands-400.eot": "/Ncrr-changes-master/static/media/fa-brands-400.140e875e1e58453221ad.eot",
+    "static/media/fa-brands-400.ttf": "/Ncrr-changes-master/static/media/fa-brands-400.f318edaf81ff2d1dc049.ttf",
+    "static/media/fa-solid-900.woff2": "/Ncrr-changes-master/static/media/fa-solid-900.7d49f26e261fa35ed52a.woff2",
+    "static/media/fa-solid-900.woff": "/Ncrr-changes-master/static/media/fa-solid-900.f89ad185d4d491dd5ffe.woff",
+    "static/media/fa-brands-400.woff": "/Ncrr-changes-master/static/media/fa-brands-400.64295e33efa263357733.woff",
+    "static/media/fa-brands-400.woff2": "/Ncrr-changes-master/static/media/fa-brands-400.43349106a076e5ac6d72.woff2",
+    "static/media/fa-regular-400.eot": "/Ncrr-changes-master/static/media/fa-regular-400.45bbc08ee25c0f5cd0fb.eot",
+    "static/media/fa-regular-400.ttf": "/Ncrr-changes-master/static/media/fa-regular-400.07c1f6dce8b2bfcf5111.ttf",
+    "index.html": "/Ncrr-changes-master/index.html",
+    "main.0e9402b9.css.map": "/Ncrr-changes-master/static/css/main.0e9402b9.css.map",
+    "main.23a62ce9.js.map": "/Ncrr-changes-master/static/js/main.23a62ce9.js.map",
+    "787.e81d5153.chunk.js.map": "/Ncrr-changes-master/static/js/787.e81d5153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e9402b9.css",
+    "static/js/main.23a62ce9.js"
+  ]
+}
